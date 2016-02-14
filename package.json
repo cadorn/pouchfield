@@ -1,0 +1,14 @@
+{
+  "name": "pouchfield",
+  "version": "0.1.0",
+  "main": "server.app.js",
+  "dependencies": {
+    "express": "^4.13.4",
+    "express-pouchdb": "^1.0.2",
+    "pouchdb": "^5.2.1",
+    "redisdown": "^0.1.11"
+  },
+  "scripts": {
+    "start": "cd examples; npm start"
+  }
+}

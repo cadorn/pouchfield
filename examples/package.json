@@ -1,0 +1,14 @@
+{
+  "name": "pouchfield-examples",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "async": "^1.5.2",
+    "bluebird": "^3.3.1",
+    "browserify": "^13.0.0",
+    "lodash": "^4.3.0",
+    "uuid": "^2.0.1"
+  }
+}
